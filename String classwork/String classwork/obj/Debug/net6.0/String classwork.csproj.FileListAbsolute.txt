@@ -1,0 +1,15 @@
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\bin\Debug\net6.0\String classwork.exe
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\bin\Debug\net6.0\String classwork.deps.json
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\bin\Debug\net6.0\String classwork.runtimeconfig.json
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\bin\Debug\net6.0\String classwork.dll
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\bin\Debug\net6.0\String classwork.pdb
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\String classwork.csproj.AssemblyReference.cache
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\String classwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\String classwork.AssemblyInfoInputs.cache
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\String classwork.AssemblyInfo.cs
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\String classwork.csproj.CoreCompileInputs.cache
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\String classwork.dll
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\refint\String classwork.dll
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\String classwork.pdb
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\String classwork.genruntimeconfig.cache
+C:\Users\gahrh\OneDrive\Desktop\String classwork\String classwork\String classwork\obj\Debug\net6.0\ref\String classwork.dll
